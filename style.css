@@ -1,0 +1,64 @@
+body {
+    padding:0;
+    margin:0;
+    background:#1c1b1b;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;          
+    margin: 0; 
+    font-family: 'Arial', sans-serif; 
+
+
+    p {
+        color: #fffefb;
+        font-size: 4em;
+        text-align: center;
+    }
+}
+
+
+
+
+img {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+}
+
+.oyster {
+    width: 900px;
+    height:auto;
+}
+
+.sign {
+    width:900px;
+    height:auto;
+}
+
+.esculator {
+    width:900px;
+    height:auto;
+}
+
+.station {
+    width:900px;
+    height:auto;
+}
+
+.airpods {
+    width:900px;
+    height:auto;
+}
+
+.music {
+    width:900px;
+    height:auto;
+}
+
+body {
+    background-image: url('images/background.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
